@@ -48,8 +48,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=obaidsajjad&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obaidsajjad&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=obaidsajjad&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=obaidsajjad&theme=tokyonight" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=obaidsajjad&theme=tokyonight" />
 </p>
 
 <p align="center">
