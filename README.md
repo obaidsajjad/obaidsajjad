@@ -47,9 +47,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=obaidsajjad&theme=tokyonight&hide_border=true" />
-</p>
+> 💡 My full contribution history — including private work — is visible in the **contribution graph further down this profile**.
 
 ---
 
